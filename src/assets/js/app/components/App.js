@@ -148,15 +148,12 @@ class App extends Component {
                         <div className="site-header-layout">
                             <div className="site-header-center">
                                 <h1 className="site-headline">
-                                    <img
-                                        width="189"
-                                        height="48"
-                                        alt="FlagWaver"
-                                        src={SITE_HEADLINE_INVERSE_IMAGE_PATH}
-                                    />
+                                    HAPPY INDEPENDENCE DAY
                                 </h1>
+                                <h2>GDSC JEC</h2>
+                                <p>upload image of Indian flag or copy url and celebrate 76th INDEPENDENCE DAY </p>
                             </div>
-
+                            
                             <div className="site-header-left">
                                 <Drawer.Button
                                     className="site-header-btn drawer-btn"
