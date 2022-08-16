@@ -1,2 +1,1 @@
-
-https://sneha2180.github.io/INDEPENDENCE-DAY-WEB/
+https://independence-day-flag.netlify.app/
